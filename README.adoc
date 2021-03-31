@@ -2,3 +2,9 @@
 
 ## Project overview
 For this project i had to redesign an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app. This project gave me an opportunity to improve an app’s design, to update and change an app's design as new standards are released.
+
+## What i learned
+- To understand the fundamentals of Android design.
+- To apply Material Design guidelines to a mobile application.
+- To separate an interface into surfaces.
+- Effectively to use transitions and motion.
